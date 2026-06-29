@@ -6,7 +6,7 @@ I'm also CEO of DevAim Labs, a company that builds custom software based on your
 
 Interested? You can find the website here: [Devaimlabs.com](https://devaimlabs.com)
 
-## 🛠️ Languages & Technologies
+## Languages & Technologies
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -19,7 +19,7 @@ Interested? You can find the website here: [Devaimlabs.com](https://devaimlabs.c
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <!-- Working Streak Stats Card -->
