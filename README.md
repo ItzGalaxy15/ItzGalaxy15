@@ -16,9 +16,6 @@ Interested? You can find the website here: [Devaimlabs.com](https://devaimlabs.c
 <p align="center">
   <!-- Working Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzGalaxy15&theme=gotham" alt="ItzGalaxy15's Streak Stats" height="160" />
-  
-  <!-- Working Profile Activity Component -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzGalaxy15&theme=github-dark-neon" alt="ItzGalaxy15's Activity Graph" height="160" />
 </p>
 
 ---
