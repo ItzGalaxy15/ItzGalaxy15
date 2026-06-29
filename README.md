@@ -14,7 +14,7 @@ Interested? You can find the website here: [Devaimlabs.com](https://devaimlabs.c
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItzGalaxy15&show_icons=true&theme=gotham" alt="ItzGalaxy15's GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzGalaxy15&theme=gotham" alt="ItzGalaxy15's Streak Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzGalaxy15&layout=compact&theme=gotham" alt="Top Languages" height="160" />
 </p>
 
