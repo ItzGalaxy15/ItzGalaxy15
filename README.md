@@ -16,7 +16,7 @@ Interested? You can find the website here: [Devaimlabs.com](https://devaimlabs.c
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-*   **Languages:** C# | PHP | Java | Python | TypeScript
+
 *   **Frameworks & Libraries:** .NET | Laravel | MonoGame | React
 ---
 
