@@ -1,7 +1,7 @@
 # Hi there!👋
 
 I'm a junior full stack developer. I love coding and I'm always ready to learn more and find out the best ways to approach new tech!
-I'm also CEO of DevAim Labs, a company that builds custom software based on your needs and goals. 
+I'm also CEO of DevAim Labs, a company that builds custom software based on your needs and goals.<br/>
 Interested? You can find the website here: [Devaimlabs.com](https://devaimlabs.com)
 
 
