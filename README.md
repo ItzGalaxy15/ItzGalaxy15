@@ -17,8 +17,8 @@ Interested? You can find the website here: [Devaimlabs.com](https://devaimlabs.c
   <!-- Working Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzGalaxy15&theme=gotham" alt="ItzGalaxy15's Streak Stats" height="160" />
   
-  <!-- Swapped to a highly reliable Top Languages alternative -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ItzGalaxy15&layout=compact&theme=gotham" alt="Top Languages" height="160" />
+  <!-- Working Profile Activity Component -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzGalaxy15&theme=github-dark-neon" alt="ItzGalaxy15's Activity Graph" height="160" />
 </p>
 
 ---
